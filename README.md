@@ -1,4 +1,4 @@
-![About Me](https://github.com/Narenpradhan/Narenpradhan/blob/main/Assets/about.png)
+![About Me](https://github.com/Narenpradhan/Narenpradhan/blob/main/Assets/about.jpg)
 
 <!--
 **Narenpradhan/Narenpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
