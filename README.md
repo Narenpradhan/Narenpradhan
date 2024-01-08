@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I am a second-year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla. As an aspiring cybersecurity enthusiast, I am currently exploring the fields of Web Application Security and Networking. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that contribute meaningfully to the technical community.
+
+### 🛠 &nbsp;Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=py,bash,html,css,js,figma,git,github,vscode)](https://skillicons.dev)
