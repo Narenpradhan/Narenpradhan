@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Narenpradhan&theme=tokyo-night&area=true&hide_border=true" alt="Narenpradhan" /></p>
 
+<br>
 
 <h2 align="center">My GitHub Stats</h2>
 
