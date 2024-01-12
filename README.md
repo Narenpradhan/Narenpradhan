@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
+
 <img src="./Assets/about.jpg" style="border-radius: 24px"/>
 
 
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Narenpradhan&theme=nightowl&area=true&hide_border=true" alt="Narenpradhan" /></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Narenpradhan&theme=tokyo-night&area=true&hide_border=true" alt="Narenpradhan" /></p>
 
 
 <h2 align="center">My GitHub Stats</h2>
@@ -48,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Narenpradhan&show_icons=true&theme=nightowl"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Narenpradhan&show_icons=true&theme=tokyonight"/>
 </p>
 
 
@@ -56,7 +59,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Narenpradhan&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Narenpradhan&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
 
 </p>
 
