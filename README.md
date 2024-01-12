@@ -16,26 +16,26 @@ Here are some ideas to get you started:
 
 <img src="./Assets/about.jpg" style="border-radius: 24px"/>
 
-<h2 align="center">About Me!</h2>
+<h2 align="center">🍁About Me!</h2>
 
 ### I am a second-year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla. As an aspiring cybersecurity enthusiast, I am currently exploring the fields of Web Application Security and Networking. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that contribute meaningfully to the technical community.
 
 <br>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">⚡Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,bash,html,css,js,figma,git,github,vscode,linux" />
   </a>
 </p>
 
+<br>
+
+<h2 align="center">🌟My GitHub Stats</h2>
 
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Narenpradhan&theme=tokyo-night&area=true&hide_border=true" alt="Narenpradhan" /></p>
-
-
-<h2 align="center">My GitHub Stats</h2>
 
 <br>
 
