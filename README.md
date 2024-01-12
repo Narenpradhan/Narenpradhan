@@ -14,20 +14,13 @@ Here are some ideas to get you started:
 -->
 <br>
 
-
 <img src="./Assets/about.jpg" style="border-radius: 24px"/>
-
 
 <h2 align="center">About Me!</h2>
 
-<br>
-
-
 ### I am a second-year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla. As an aspiring cybersecurity enthusiast, I am currently exploring the fields of Web Application Security and Networking. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that contribute meaningfully to the technical community.
 
-
 <br>
-
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
