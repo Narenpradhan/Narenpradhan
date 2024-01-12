@@ -37,17 +37,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">My GitHub Stats</h2>
 
-
-<br>
-
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Narenpradhan&show_icons=true&theme=tokyonight"/>
 </p>
 
-
 <br>
-
 
 <p align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Narenpradhan&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
