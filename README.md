@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <img src="./Assets/about.jpg" style="border-radius: 24px"/>
 
 
-<br>
-
 <h2 align="center">About Me!</h2>
 
 <br>
