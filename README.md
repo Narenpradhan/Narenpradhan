@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🍁About Me!</h2>
 
-### I am a second-year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla. As an aspiring cybersecurity enthusiast, I am currently exploring the fields of Web Application Security and Networking. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that contribute meaningfully to the technical community.
+### I am a second-year student pursuing a bachelor's degree. As an aspiring cybersecurity enthusiast, I am currently exploring the fields of Web Application Security and Networking. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that contribute meaningfully to the technical community.
 
 <br>
 
