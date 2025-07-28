@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<img src="./Assets/about.jpg" style="border-radius: 24px"/>
+<!-- <img src="./Assets/about.jpg" style="border-radius: 24px"/> -->
 
 <h2 align="center">🍁About Me!</h2>
 
