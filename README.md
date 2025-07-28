@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 <link href="https://fonts.googleapis.com/css?family=Space+Mono&display=swap" rel="stylesheet">
 
 <div style="font-family: 'Space Mono', monospace; font-size: 1.2em;">
-<pre>
-🍁 About Me
-    - Final Year B.Tech Undergraduate Student at VSSUT, Burla.
-    - Mind wired for Data, AI, and Security.
-    - Forever in beta—learning, unlearning, relearning.
-🪺 Arsenal
-    - Programming Languages : Python, C++, Bash, SQL
-    - Data Analysis & Visualization : PowerBI, MS Excel
-    - Libraries : Numpy, Pandas, Matplotlib
-    - Cloud & DevOps : Azure, Docker, Kubernetes, Linux
-    - Database : MySQL, MongoDB, Milvus
-    - Development Tools : VSCode, Git, GitHub, Jupyter Notebook
-</pre>
+🍁 About Me<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Final Year B.Tech Undergraduate Student at VSSUT, Burla.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Mind wired for Data, AI, and Security.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Forever in beta—learning, unlearning, relearning.<br>
+<br>
+🪺 Arsenal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Programming Languages: Python, C++, Bash, SQL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Data Analysis & Visualization: PowerBI, MS Excel<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Libraries: Numpy, Pandas, Matplotlib<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Cloud & DevOps: Azure, Docker, Kubernetes, Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Database: MySQL, MongoDB, Milvus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Development Tools: VSCode, Git, GitHub, Jupyter Notebook<br>
 </div>
 
 
