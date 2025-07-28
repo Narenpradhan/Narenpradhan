@@ -12,50 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+<link href="https://fonts.googleapis.com/css?family=Space+Mono&display=swap" rel="stylesheet">
 
-<!-- <img src="./Assets/about.jpg" style="border-radius: 24px"/> -->
-
-<h2 align="center">🍁About Me!</h2>
-
-### I am a third-year student pursuing a bachelor's degree. As an Data enthusiast, I am currently honing my skills in the fields of Data Analysis, Data Modelling, Dashboard Development using SQL, Python, Power BI and other tools. My deep passion for technology propels my journey of lifelong learning, inspiring me to implement and apply my acquired knowledge in creating projects that extracts profound insights from data and reveal the true insights the data conveys.
-
-<br>
-
-<h2 align="center">⚡Languages and Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,html,css,js,figma,git,github,vscode,linux" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center">🌟My GitHub Stats</h2>
-
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Narenpradhan&theme=tokyo-night&area=true&hide_border=true" alt="Narenpradhan" /></p>
-
-<br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Narenpradhan&show_icons=true&theme=tokyonight"/>
-</p>
-
-<br>
-
-<p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Narenpradhan&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0"/>
-
-</p>
-
-
-<br>
-
-
-<p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narenpradhan&layout=compact&theme=radical"/> -->
-</p>
+<div style="font-family: 'Space Mono', monospace; font-size: 1.2em;">
+<pre>
+🍁 About Me
+    - Final Year B.Tech Undergraduate Student at VSSUT, Burla.
+    - Mind wired for Data, AI, and Security.
+    - Forever in beta—learning, unlearning, relearning.
+🪺 Arsenal
+    - Programming Languages : Python, C++, Bash, SQL
+    - Data Analysis & Visualization : PowerBI, MS Excel
+    - Libraries : Numpy, Pandas, Matplotlib
+    - Cloud & DevOps : Azure, Docker, Kubernetes, Linux
+    - Database : MySQL, MongoDB, Milvus
+    - Development Tools : VSCode, Git, GitHub, Jupyter Notebook
+</pre>
+</div>
 
 
